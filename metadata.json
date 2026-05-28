@@ -1,0 +1,6 @@
+{
+  "name": "الطرفية العربية",
+  "description": "محاكي طرفية عربي متكامل مشابه لبيئة Termux مع دعم كامل للكتابة والتشكيل العربي وبناء حزم ومحرر نصوص ومفسر أوامر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
